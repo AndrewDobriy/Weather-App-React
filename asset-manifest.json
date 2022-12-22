@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/React-search-input/static/css/main.fc5a3adb.css",
-    "main.js": "/React-search-input/static/js/main.04f2ac2d.js",
-    "static/media/haze.jpg": "/React-search-input/static/media/haze.00249a36d18709703b6f.jpg",
-    "static/media/clear.jpg": "/React-search-input/static/media/clear.5cc3888e0e0512f86841.jpg",
-    "static/media/rain.jpg": "/React-search-input/static/media/rain.14318688e384801cdd8e.jpg",
-    "static/media/snow.jpg": "/React-search-input/static/media/snow.8adfa51f4b6cab956d1c.jpg",
-    "static/media/defaultImg.jpg": "/React-search-input/static/media/defaultImg.41398d9c419832af1b00.jpg",
-    "static/media/cloud.jpg": "/React-search-input/static/media/cloud.28b452c77b3f26b54f0a.jpg",
-    "index.html": "/React-search-input/index.html",
-    "main.fc5a3adb.css.map": "/React-search-input/static/css/main.fc5a3adb.css.map",
-    "main.04f2ac2d.js.map": "/React-search-input/static/js/main.04f2ac2d.js.map"
+    "main.css": "/Weather-App-React/static/css/main.4bba6b92.css",
+    "main.js": "/Weather-App-React/static/js/main.04f2ac2d.js",
+    "static/media/haze.jpg": "/Weather-App-React/static/media/haze.00249a36d18709703b6f.jpg",
+    "static/media/clear.jpg": "/Weather-App-React/static/media/clear.5cc3888e0e0512f86841.jpg",
+    "static/media/rain.jpg": "/Weather-App-React/static/media/rain.14318688e384801cdd8e.jpg",
+    "static/media/snow.jpg": "/Weather-App-React/static/media/snow.8adfa51f4b6cab956d1c.jpg",
+    "static/media/defaultImg.jpg": "/Weather-App-React/static/media/defaultImg.41398d9c419832af1b00.jpg",
+    "static/media/cloud.jpg": "/Weather-App-React/static/media/cloud.28b452c77b3f26b54f0a.jpg",
+    "index.html": "/Weather-App-React/index.html",
+    "main.4bba6b92.css.map": "/Weather-App-React/static/css/main.4bba6b92.css.map",
+    "main.04f2ac2d.js.map": "/Weather-App-React/static/js/main.04f2ac2d.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc5a3adb.css",
+    "static/css/main.4bba6b92.css",
     "static/js/main.04f2ac2d.js"
   ]
 }
